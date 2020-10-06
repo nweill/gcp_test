@@ -1,2 +1,2 @@
 FROM alpine
-CMD echo hello everyone
+CMD echo  everyone is having fun
